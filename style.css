@@ -1,0 +1,96 @@
+.one{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(179, 45, 45);
+    padding: 15px;
+    font-style: italic;
+    margin: 0px;
+}
+
+.main{
+   
+    margin: 0px;
+  padding: 10px ;
+      text-transform: uppercase;
+      color: aliceblue;
+      background-color: blueviolet;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-style: italic;
+  }
+
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: aliceblue;
+    font-style: italic;
+    margin-top: 20px;
+}
+
+th{
+    background-color: blueviolet;
+    padding: auto;
+    width: 300px;
+    height: 40px;
+    text-transform: capitalize;
+    color: aliceblue;
+    font-style: italic;
+}
+.heading3{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+.heading4{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+.heading5{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+.heading6{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+.heading7{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+.heading8{
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+}
+
+li{
+    font-style: italic;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+}

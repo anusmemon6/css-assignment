@@ -1,0 +1,43 @@
+h1{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(179, 45, 45);
+    padding: 15px;
+    font-style: italic;
+    margin: 0px;
+}
+
+ul{
+    background-color: blueviolet;
+    text-align: center;
+    color: aliceblue;
+    padding: 5px;
+    font-style: italic;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
+.main{
+    margin: 0px;
+   padding: 10px ;
+       text-transform: uppercase;
+       color: aliceblue;
+       background-color: blueviolet;
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+   font-style: italic;
+ }
+ a{
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.two{
+    color: aliceblue;
+    text-align: center;
+    background-color: rgb(179, 45, 45);
+    padding: 15px;
+    font-style: italic;
+    margin-top: 15px;
+}
